@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurchakalasiya1990" alt="mayurchakalasiya1990" /></a> </p>
 
-- 🔭 I’m currently working on **Cavendish Living Lab**
+- 🔭 I’m currently working on [**Cavendish Living Lab**](https://sway.office.com/LvYdEN44nwI7icqR?ref=Link&loc=play)
 
 - 🌱 I’m currently learning **Kubernetes and Explore Azure**
 
-- 👯 I’m looking to collaborate on [Open Source Projects](https://sway.office.com/LvYdEN44nwI7icqR?ref=Link&loc=play)
+- 👯 I’m looking to collaborate on Open Source Projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayurchakalasiya1990?tab=repositories](https://github.com/mayurchakalasiya1990?tab=repositories)
 
